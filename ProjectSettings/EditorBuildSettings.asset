@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Flipbook.unity
+    guid: 83efbee42d83f8b49992602b4888faac
   m_configObjects: {}
